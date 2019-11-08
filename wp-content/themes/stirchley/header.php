@@ -8,7 +8,7 @@
   <title>Stirchley Co-operative Development</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <script type="text/javascript" src="dist/app.js"></script>
-  <link rel="stylesheet" type="text/css" media="screen" href="dist/styles.css">
+  <link rel="stylesheet" type="text/css" media="screen" href="<?= get_stylesheet_directory_uri() ?>/style.css">
 </head>
 <body class="font-sans font-light">
   <div class="container mx-auto p-4 sm:p-8 lg:py-16">
